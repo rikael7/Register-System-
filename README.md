@@ -53,7 +53,7 @@ CREATE TABLE users (
 );
 
 ⚙️ Installation & Setup
-git clone https://github.com/your-username/sistema-cadastro.git
+git clone https://github.com/rikael7/Register-System-
 npm install
 node app.js
 
